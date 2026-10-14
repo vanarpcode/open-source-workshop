@@ -20,7 +20,7 @@ These people are called contributers.
 
 ## Why Contribute?
 
-- You lern how real projects are built
+- You learn how real projects are built
 - Recruiters can actualy see your work
 - You meet devlopers from all over the world
 - It feels grate when your first PR gets merged
